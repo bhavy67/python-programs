@@ -1,0 +1,5 @@
+spice_mix = set()
+print(f"Initial Spice Mix: {spice_mix}")
+spice_mix.add("cumin")
+spice_mix.add("turmeric")
+print(f"Updated Spice Mix: {spice_mix}")
