@@ -12,3 +12,5 @@ def generate_report():
     filter_valid_sales()
     summarize_sales()
     print("Generating sales report...")
+
+generate_report()
