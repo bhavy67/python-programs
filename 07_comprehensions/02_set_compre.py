@@ -18,3 +18,7 @@ recipes = {
 
 unique_spices = {spice for recipe in recipes.values() for spice in recipe}
 print(unique_spices)
+
+# for recipe in recipes.values():
+#     for spice in recipe:
+#         unique_spices.add(spice)
