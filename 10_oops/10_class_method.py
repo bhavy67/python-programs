@@ -1,5 +1,4 @@
 class Chaiorder:
-
     def __init__(self, tea_type, sugar_level, size):
         self.tea_type = tea_type
         self.sugar_level = sugar_level
